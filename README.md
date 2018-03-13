@@ -4,3 +4,4 @@ Testing this text editor
 
 change 1
 
+change 2
